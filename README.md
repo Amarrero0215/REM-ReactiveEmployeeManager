@@ -81,7 +81,8 @@ id  first_name  last_name  title                 department       salary  manage
 ```
 
 ## Walkthrough Video
-[Click here to watch the walkthrough video](https://your-video-link.com)
+![Employee Tracker Sneakpeak](./Assets/DemoVideoSnip.png)
+[Click here to watch the Demo video](https://drive.google.com/file/d/1xFQ1ed0iR4VBlisT1GZTdDUBehoVtMf7/view?usp=sharing)
 
 This video demonstrates how to:
 - Start the application.
@@ -124,6 +125,8 @@ The database contains the following tables:
 
 ## Future Enhancements
 - Add search functionality.
+- Add capabilities to store/archive old data for audits
+   - Boost storage performance for larger databases
 - Create a GUI for easier interaction.
 - Implement advanced reporting and analytics.
 
